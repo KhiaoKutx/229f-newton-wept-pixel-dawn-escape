@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 798d1a4795004094c90a7f14be762fdf
+guid: 6fac3e3e193971c488d40add5981979b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 9020800786607743927
-    second: pngtree-ice-picture-image_656440-removebg-preview_0
-  - first:
-      213: -7696077202810443540
-    second: pngtree-ice-picture-image_656440-removebg-preview_1
+      213: 341194223819032567
+    second: a72401c2-aa4a-4a1b-a3d3-cb92f0d7ec8a_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -116,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pngtree-ice-picture-image_656440-removebg-preview_0
+      name: a72401c2-aa4a-4a1b-a3d3-cb92f0d7ec8a_0
       rect:
         serializedVersion: 2
-        x: 45
-        y: 184
-        width: 373
-        height: 161
+        x: 0
+        y: 0
+        width: 460
+        height: 206
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,30 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7b3a15b6582503d70800000000000000
-      internalID: 9020800786607743927
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pngtree-ice-picture-image_656440-removebg-preview_1
-      rect:
-        serializedVersion: 2
-        x: 249
-        y: 316
-        width: 130
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ce860824f8a023590800000000000000
-      internalID: -7696077202810443540
+      spriteID: 7f7062eb65a2cb400800000000000000
+      internalID: 341194223819032567
       vertices: []
       indices: 
       edges: []
@@ -172,9 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      pngtree-ice-picture-image_656440-removebg-preview_0: 9020800786607743927
-      pngtree-ice-picture-image_656440-removebg-preview_1: -7696077202810443540
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
