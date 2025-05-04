@@ -20,7 +20,15 @@ public class PlayerHealth : MonoBehaviour
     {
         if (collision.collider.CompareTag("Enemy"))
         {
-            TakeDamage(10); // ลดเลือด 10 เมื่อชนศัตรู
+            TakeDamage(20);
+        }
+        if (collision.collider.CompareTag("Skeleton"))
+        {
+            TakeDamage(40);
+        }
+        if (collision.collider.CompareTag("FallWorld"))
+        {
+            TakeDamage(100);
         }
     }
 
